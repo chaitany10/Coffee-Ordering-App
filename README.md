@@ -1,1 +1,1 @@
-This App orders Coffeeby sending an Email to COffee-Shop owner.
+This App orders Coffee by sending an Email to Coffee-Shop owner.
